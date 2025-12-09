@@ -6,7 +6,7 @@ from openai import OpenAI
 # Configuração da API
 
 # Chave da OpenAI
-client = OpenAI(api_key="")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 def gerar_resposta(texto):
