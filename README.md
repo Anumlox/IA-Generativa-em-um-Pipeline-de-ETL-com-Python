@@ -12,3 +12,6 @@
 # Links que ajudaram no desenvolvimento desse ETL
 - [Código Fonte](SantanderDevWeek2023.ipynb)
 - [Repositório SantanderDevWeek2023](github.com/digitalinnovationone/santander-dev-week-2023-api)
+
+# Situação Atual
+- No momento a IA não está funcionando pois necessita pagamento para que possa gerar dados!
